@@ -1,0 +1,1 @@
+# collectd-custom-rhel6
